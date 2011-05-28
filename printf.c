@@ -9,6 +9,6 @@ int main()
     //文字列を出力
     printf("Hello!\n");
     //文字列と変数を出力
-    printf("number = %d\n",number);
+    printf("number = %d\n", number);
     return 0;
 }

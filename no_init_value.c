@@ -8,6 +8,6 @@
 int main(void)
 {
     int value;
-    printf("%d¥n",value);
+    printf("%d¥n", value);
     return (0);
 }

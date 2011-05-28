@@ -7,9 +7,9 @@
 
 int main()
 {
-    int value=0;
+    int value = 0;
     printf("Input a value:");
-    scanf("%d",&value);
-    printf("value = %d",value);
+    scanf("%d", &value);
+    printf("value = %d", value);
     return 0;
 }

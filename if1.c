@@ -12,23 +12,23 @@ int main()
     int b = 1;
 
     //同じかどうか
-    if(a==3)
+    if(a == 3)
         printf("aは3です\n");
 
     //違うかどうか
-    if(a!=3)
+    if(a != 3)
         printf("aは3ではありません\n");
 
     //不等号(">")
-    if(a>3)
+    if(a > 3)
         printf("aは3より大きいです\n");
 
     //不等号(">=")
-    if(a>=3)
+    if(a >= 3)
         printf("aは3以上です\n");
 
     //変数どうしの比較
-    if(a>b)
+    if(a > b)
         printf("aはbよりも大きいです\n");
 
     return 0;
